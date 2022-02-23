@@ -6,4 +6,6 @@ pandas
 sqlalchemy
 psycopg2
 scikit-learn
-sklearn
+scipy
+scikit-learn-intelex
+scikit-image
